@@ -28,7 +28,7 @@ git clone <repository-url>
 cd QR-generator
 
 # Install dependencies
-npm install
+npm install --legacy-peer-deps
 
 # Start development server
 npm run dev
